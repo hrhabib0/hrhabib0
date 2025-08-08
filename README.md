@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <Your Name>!</h1> <!-- Replace this -->
+<p align="center">
+  <img src="https://i.ibb.co.com/v4SgP3WF/profile-banner.png" alt="Banner Image" width="100%" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Md. Habibur Rahman!</h1> 
 <h3 align="center">Aspiring Full-Stack Web Developer | Frontend Focused</h3>
 
 <p align="center">
@@ -15,31 +19,40 @@ I love solving problems and building creative, user-friendly web applications.
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swiper.js-663399?style=flat&logo=swiper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+#### Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>
+
+#### Backend  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+### ⚡ Current Activities
 
-- React (Advanced Concepts)
-- Node.js & Express.js
-- MongoDB (Database Modeling)
-- Starting soon: **Next.js**
+- Exploring Next.js and server-side rendering  
+- Working on a blood donation website project  
+- Enhancing my backend skills with Express.js and MongoDB
 
 ---
 
@@ -52,17 +65,33 @@ I love solving problems and building creative, user-friendly web applications.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrhabib0&show_icons=true&theme=default" alt="GitHub stats" /> <!-- Replace yourUsername -->
-</p>
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrhabib0&theme=default)
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrhabib0&show_icons=true&theme=default)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrhabib0&layout=compact)
+
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect with Me
 
-- 📧 Email: `hrhabib398668@gmail.com`
+<p align="center">
+  <a href="https://github.com/hrhabib0" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/habibur-rahman3" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hrhabib398668@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
